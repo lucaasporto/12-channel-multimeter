@@ -1,8 +1,13 @@
 # BioMon - Sistema de Aquisição de Dados para Medição de Células de Bateria de Baixa Tensão
 
-> **Autor:** Lucas Porto Ribeiro
-> 
+
+
 > **Resumo:** Sistema dedicado ao monitoramento contínuo, escalável e de baixo custo para aquisição de bioeletricidade na ordem de milivolts, focado em células a combustível microbianas (MFCs).
+> >
+> **Contexto:** Projeto desenvolvido como trabalho da disciplina **Projeto de Sistemas Ubíquos e Embarcados (DEC0021)**, do curso de **Engenharia de Computação da Universidade Federal de Santa Catarina – Campus Araranguá**, sob orientação do **Prof. Dr. Jim Lau**.
+>
+> **Autor:** Lucas Porto Ribeiro  
+> **Ano:** 2026
 
 ---
 
