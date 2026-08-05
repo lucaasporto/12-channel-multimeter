@@ -10,8 +10,9 @@
 >
 > **Contexto:** Projeto desenvolvido como trabalho da disciplina **Projeto de Sistemas Ubíquos e Embarcados (DEC0021)**, do curso de **Engenharia de Computação da Universidade Federal de Santa Catarina – Campus Araranguá**, sob orientação do **Prof. Dr. Jim Lau**.
 >
-> **Autor:** Lucas Porto Ribeiro
-> **Semestre:** 2026/1
+> Autor: **Lucas Porto Ribeiro**
+> 
+> Semestre: **2026/1**
 
 ---
 
