@@ -4,7 +4,7 @@
 
 <br>
 
-# BioMon - Data Acquisition System for Low-Voltage Bioelectricity Measurement
+# Data Acquisition System for Low-Voltage Bioelectricity Measurement
 
 > **Summary:** A dedicated, scalable, and low-cost system for continuous bioelectricity acquisition at the millivolt scale, focused on microbial fuel cells (MFCs).
 >
