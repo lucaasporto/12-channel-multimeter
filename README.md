@@ -10,9 +10,9 @@
 >
 > **Context:** Project developed as part of the **Ubiquitous and Embedded Systems Project (DEC0021)** course, in the **Computer Engineering** program at the **Federal University of Santa Catarina – Araranguá Campus**, under the supervision of **Prof. Dr. Jim Lau**.
 >
-> Author: **Lucas Porto Ribeiro**
-> 
-> Semester: **2026/1**
+> Semester: **2026/1** <br>
+> Author: **Lucas Porto Ribeiro** <br>
+
 
 ---
 
